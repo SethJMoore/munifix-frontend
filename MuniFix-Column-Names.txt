@@ -1,0 +1,9 @@
+City Name
+URL for Issue Page
+Latitude
+Longitude
+Description
+Problem Category
+Name
+Phone
+Email
